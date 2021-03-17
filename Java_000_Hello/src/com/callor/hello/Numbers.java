@@ -31,7 +31,8 @@ public class Numbers {
 		System.out.print("33 / 2 = ");
 		System.out.println(33 / 2);
 		
-		System.out.print("33 % 2 =");
+		System.out.print("33 % 2 ="
+				+ "");
 		System.out.println(33 % 2);
 	}
 	
