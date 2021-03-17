@@ -18,4 +18,3 @@
 ## 컴퓨터의 CPU
 * ALU(연산장치), Controller(제어장치)
 * ALU(Arithmetic Logic unit)
-
