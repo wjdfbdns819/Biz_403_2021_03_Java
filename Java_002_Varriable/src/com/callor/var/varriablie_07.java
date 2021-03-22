@@ -17,7 +17,9 @@ public class varriablie_07 {
 		intSum += ++intNum;
 		intSum += ++intNum;
 		intSum += ++intNum;
+		System.out.println(intSum);
 		intSum += ++intNum;
+		System.out.println(intSum);
 		intSum += ++intNum;
 		System.out.println(intSum);
 		
