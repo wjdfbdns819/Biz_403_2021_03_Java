@@ -57,8 +57,6 @@ public class InputServiceV1 {
 			
 		}
 		
-	
-	
 	/*
 	 * String  title 매개변수를 받고
 	 * 정수값이나 QUIT가 입력되는지 확인을 하고
@@ -82,10 +80,7 @@ public class InputServiceV1 {
 				}
 				return num;
 			}
-			
 		}
-		
-		
 	}
 	/*
 	public Integer inputValue(String title) {
